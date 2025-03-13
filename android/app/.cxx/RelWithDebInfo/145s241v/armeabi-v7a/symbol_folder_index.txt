@@ -1,0 +1,1 @@
+D:\flutter projects\easygps\build\app\intermediates\cxx\RelWithDebInfo\145s241v\obj\armeabi-v7a

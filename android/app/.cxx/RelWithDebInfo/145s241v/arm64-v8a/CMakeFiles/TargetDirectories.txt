@@ -1,0 +1,2 @@
+D:/flutter projects/easygps/android/app/.cxx/RelWithDebInfo/145s241v/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/flutter projects/easygps/android/app/.cxx/RelWithDebInfo/145s241v/arm64-v8a/CMakeFiles/rebuild_cache.dir
